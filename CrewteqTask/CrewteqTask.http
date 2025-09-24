@@ -1,6 +1,0 @@
-@CrewteqTask_HostAddress = http://localhost:5291
-
-GET {{CrewteqTask_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
